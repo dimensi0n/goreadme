@@ -27,3 +27,5 @@ Example :
 ```
 goreadme github dimensi0n/stor
 ```
+
+[![asciicast](https://asciinema.org/a/RmmjqgsQfuLlFh3B8BNa9LmQ9.svg)](https://asciinema.org/a/RmmjqgsQfuLlFh3B8BNa9LmQ9)
